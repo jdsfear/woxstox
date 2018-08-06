@@ -1,0 +1,12 @@
+{
+  "ID":"0bd16b5263c04202b7157f454139c377",
+  "ActionKeyword":"stox",
+  "Name":"Wox Stox",
+  "Description":"Get Stock quotes using Alpha Vantage",
+  "Author":"jakefear",
+  "Version":"1.0.0",
+  "Language":"csharp",
+  "Website":"https://github.com/jdsfear/woxstox",
+  "IcoPath": "Images\\Logo.ico",             
+  "ExecuteFileName":"WoxStox.dll" 
+}
